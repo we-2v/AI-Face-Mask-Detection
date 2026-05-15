@@ -1,11 +1,11 @@
-# AI-Powered Face Mask Detection 
+# AI-Powered Face Mask Detection 🛡️🤖
 ### Enhanced with Deep Transfer Learning & Strategic Fine-Tuning
 
 This repository features an optimized version of the Face Mask Detection system, originally forked from `recurrentai/deep_learning_projects`. The project has been significantly enhanced through rigorous architectural refactoring, advanced training methodologies, and deployment optimization, achieving a validation accuracy of **85%**.
 
 ---
 
-## Key Improvements in This Version
+## 🚀 Key Improvements in This Version
 * **Performance Boost:** Increased validation accuracy to 85% through precision hyperparameter tuning.
 * **Strategic Fine-Tuning:** Implemented a sophisticated two-stage training process.
 * **Code Refactoring:** Optimized the codebase for better modularity, readability, and inference speed.
