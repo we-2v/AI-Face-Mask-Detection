@@ -1,5 +1,0 @@
-YouTube Video: https://youtu.be/E71ms9MDlOA
-
-Dataset: https://drive.google.com/file/d/1a7Brk_hSxQPCAbPUF-qx0yPr-tlaljjK/view?usp=sharing
-
-Server Link: https://ai-face-mask-detection1.streamlit.app/
