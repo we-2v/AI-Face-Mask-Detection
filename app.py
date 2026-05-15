@@ -7,7 +7,7 @@ from huggingface_hub import hf_hub_download
 import os
 
 # Set Hugging Face Token for faster and authenticated downloads
-os.environ["HF_TOKEN"] = "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"
+# os.environ["HF_TOKEN"] = "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"
 
 # --- 1. CONFIGURATION & MODEL LOADING ---
 
