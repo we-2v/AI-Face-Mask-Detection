@@ -16,15 +16,15 @@ This repository features an optimized version of a Face Mask Detection system. T
 
 ### 1. Model Building Pipeline
 The diagram below illustrates the end-to-end process of building the model, from data preparation to model saving:
-![Model Building Pipeline](https://ibb.co/pj1KknTH)
+![Model Building Pipeline](https://i.ibb.co/KxN3VqSz/20260516-063408.jpg)
 
 ### 2. Deployment Pipelines
 **Local Inference Architecture:**
-![Local Deployment Pipeline](https://ibb.co/B5yNJ39t)
+![Local Deployment Pipeline](https://i.ibb.co/pj1KknTH/Screenshot-20260512-150142-Video-Player.jpg)
 
 **Cloud Deployment Workflow:**
 The model is hosted on Hugging Face, the codebase on GitHub, and the user interface is deployed via Streamlit Cloud:
-![Cloud Deployment Pipeline](https://ibb.co/KxN3VqSz)
+![Cloud Deployment Pipeline](https://i.ibb.co/B5yNJ39t/20260516-063249.jpg)
 
 ---
 
